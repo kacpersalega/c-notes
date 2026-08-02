@@ -1,0 +1,13 @@
+# Ignore all C source and header files (optional, remove *.h if you want to keep headers)
+*.c
+
+# Ignore compiled object files and libraries
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+
+# Ignore common executable formats
+*.out
+*.exe
